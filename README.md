@@ -51,4 +51,5 @@ Performance targets will be validated through controlled testing.
 - Custom security policies for different industries.
 - Improved monitoring and reporting.
 
-## Project StatuHackathon project proposal / prototype in development. Features and performance claims should be updated as implementation and testing progress.
+Project Status
+Hackathon project proposal / prototype in development. Features and performance claims should be updated as implementation and testing progress.
